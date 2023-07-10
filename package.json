@@ -13,6 +13,7 @@
     "@vueuse/head": "^1.1.26",
     "core-js": "^3.8.3",
     "firebase": "^9.23.0",
+    "pinia": "^2.1.4",
     "quasar": "^2.0.0",
     "register-service-worker": "^1.7.2",
     "vue": "^3.2.13",
