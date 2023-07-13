@@ -12,17 +12,17 @@
     <q-page-container>
       <router-view />
     </q-page-container>
-    <SigmaFooter />
+    <!-- <SigmaFooter /> -->
   </q-layout>
 </template>
 
 <script>
 import { ref, watch } from "vue";
-import SigmaFooter from "./Footer.vue";
+// import SigmaFooter from "./Footer.vue";
 import SigmaHeader from "./Header.vue";
 export default {
   components: {
-    SigmaFooter,
+    // SigmaFooter,
     SigmaHeader,
   },
   setup() {

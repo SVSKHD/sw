@@ -1,7 +1,8 @@
 <template>
-  <div class="home">
+  <div class="homePage full-height">
     <SigmaSeo title="SigmaWings | The best place for sell your products" description="SigmaWings | we help you in selling products" keywords="hello sigma"/>
-    <h1 class="text-center">Hello Sigma</h1>
+    <!-- <h1 class="text-center">Hello Sigma</h1> -->
+    dbsamb
   </div>
 </template>
 
@@ -15,3 +16,9 @@ export default {
   },
 };
 </script>
+<style>
+  .homePage {
+    height: fit-content;
+    background-color: antiquewhite;
+  }
+</style>

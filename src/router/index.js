@@ -12,7 +12,7 @@ const routes = [
     component: CommonLayout,
     children: [
       {
-        path: '/',
+        path: '/home',
         name: 'home',
         component: HomeView
       },
